@@ -16,6 +16,6 @@ ________________________________________________________________________________
 
 2017 | 2018
 ------------ | -------------
-![VBA_Challenge_2017](https://user-images.githubusercontent.com/77905862/130867526-c53242b7-0803-40bf-88cf-e183c2bbf1d6.png) | ![VBA_Challenge_2018](https://user-images.githubusercontent.com/77905862/130867559-f14aae4b-bb8b-49bd-8a17-e851483e33bd.png)
+![Elapsed Time 2017](https://user-images.githubusercontent.com/77905862/130869035-ed23d637-21cb-4816-a5f7-32c37d34272f.png)| ![Elapsed Time 2018](https://user-images.githubusercontent.com/77905862/130869053-c50e9180-3f38-4d0b-bd20-76b5873ba045.png)
 
 
