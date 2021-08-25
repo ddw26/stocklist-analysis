@@ -1,1 +1,5 @@
-# stocklist-analysis
+# Stocklist-Analysis
+
+# Overview
+
+Awesome! Steve loved the new workbook I created for him. He was able to analyze the entire dataset. However, Steve wants to do a little more research for his parents and expand the dataset to include the entire stock market over the last few years. Though my code worked well for a dozen stocks, Steve suggested that with some refactorting it'll work as well for thousands of stocks. Refactoring is a vital part of coding. When refactoring code, one does not add new functionality; but rather make the code more efficient by taking fewer steps, using less memory, or improving the code's logic to make it an easier read for future users. Nonetheless, I have been tasked to edit/refactor Module 2's solution code to loop through all the data one time in order to collect the same information from said module. Following, I determine whether refactoring my code successfully made the VBA script run faster. And lastly, I present a written analysis explaining my findings.
