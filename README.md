@@ -9,3 +9,13 @@ ________________________________________________________________________________
 Pros | Cons
 ------------ | -------------
 One of the most impactful benefits of refactoring code is that performance and run-time improves significantly. This affords developers to make the code easier to read, as that newly available time is focused on organizing and streamlining code. Another benefit of refactoring code is that less steps are involved when running the altered code. Additionally, refactoring also grants developers the opportunity to improve upon old our outdated code.  | A risk that comes with refactoring code is that changing large portions of code can introduce errors when it comes time to run. If the developer is not skilled enough, or did not save previous work, this can cause major issues. Another risk associated with refactoring code is the amount of time spent to refactor it. Depending on the developers goal or vision, it may not be beneficial to refactor every single project; sometimes the rewards are poor in relation to the amount of time spent to refactor said code.
+_______________________________________________________________________________________
+
+### Elapsed Run Time ((Refactored))
+---------------------------------------------------------------------------------------
+
+2017 | 2018
+------------ | -------------
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/77905862/130867526-c53242b7-0803-40bf-88cf-e183c2bbf1d6.png) | ![VBA_Challenge_2018](https://user-images.githubusercontent.com/77905862/130867559-f14aae4b-bb8b-49bd-8a17-e851483e33bd.png)
+
+
